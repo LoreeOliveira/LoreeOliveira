@@ -11,9 +11,9 @@
 - Gosto de estudar Ti
 -  Meu Foco Atualmente é:
 <br>
-  -Lógica de Programação
-  -Desenvolvimento Web
-  -Resolução de Problema
+Lógica de Programação
+Desenvolvimento Web
+Resolução de Problema
 <!--
 **LoreeOliveira/LoreeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
