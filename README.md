@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 Sobre mim 🚀
+### 🚀 Sobre mim 
 
 -  🎓Atualmente cursando o Técnico em Desenvolvimento de Sistemas no SENAI.
 -  💡 Gosto de estudar Ti
