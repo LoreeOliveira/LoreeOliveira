@@ -5,8 +5,7 @@
 
 ---
 
-### 🚀 Sobre mim
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC5D3&width=435&lines=Sobre+Mim🚀;%F0%9F%93%9A%F0%9F%9A%80)](https://git.io/typing-svg)
+### 🚀 Sobre mim 🚀
 
 -  🎓Atualmente cursando o Técnico em Desenvolvimento de Sistemas no SENAI.
 -  💡 Gosto de estudar Ti
