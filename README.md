@@ -7,9 +7,10 @@
 ### 🚀 Sobre mim
 
 
--  Atualmente cursando o Técnico em Desenvolvimento de Sistemas no SENAI.
-- Gosto de estudar Ti
-- Sempre Aprimorando os conhecimentos
+-  🎓Atualmente cursando o Técnico em Desenvolvimento de Sistemas no SENAI.
+-  💡 Gosto de estudar Ti
+-  💻 Focada em aprender e dominar as melhores práticas de desenvolvimento de software.
+-  🌱 Aprendendo algo novo todos os dias para me tornar uma desenvolvedora excelente!
 
 ### 📫 Como me encontrar
 
@@ -19,7 +20,7 @@ Se quiser bater um papo sobre tecnologia, projetos ou oportunidades:
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
   
-
+ ![Footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
 
 <!--
 **LoreeOliveira/LoreeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
