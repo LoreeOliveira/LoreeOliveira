@@ -9,11 +9,15 @@
 
 -  Atualmente cursando o Técnico em Desenvolvimento de Sistemas no SENAI.
 - Gosto de estudar Ti
--  Meu Foco Atualmente é:
-  <br>
--  Lógica de Programação
-  <br>
--  Desenvolvimento Web
+- Sempre Aprimorando os conhecimentos
+
+### 📫 Como me encontrar
+
+Se quiser bater um papo sobre tecnologia, projetos ou oportunidades:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
   
 
 
