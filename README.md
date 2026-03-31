@@ -20,7 +20,7 @@ Se quiser bater um papo sobre tecnologia, projetos ou oportunidades:
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
   
- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=footer)
+ ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFC5D3&height=100&section=footer)
 
 <!--
 **LoreeOliveira/LoreeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
