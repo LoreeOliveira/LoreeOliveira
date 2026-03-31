@@ -10,10 +10,13 @@
 -  Atualmente cursando o Técnico em Desenvolvimento de Sistemas no SENAI.
 - Gosto de estudar Ti
 -  Meu Foco Atualmente é:
-<br>
-Lógica de Programação
-Desenvolvimento Web
-Resolução de Problema
+  <br>
+-  Lógica de Programação
+  <br>
+-  Desenvolvimento Web
+  
+
+
 <!--
 **LoreeOliveira/LoreeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
