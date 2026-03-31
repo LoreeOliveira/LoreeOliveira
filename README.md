@@ -1,4 +1,7 @@
-Olá! Eu sou a Lorena Sousa de Oliveira ✨
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC5D3&width=435&lines=Lorena Oliveira+%F0%9F%AA%90;Seja+Bem+Vindo+!;Estudante+de+D.S;Sempre+aprendendo+novas+coisas%F0%9F%93%9A%F0%9F%9A%80)](https://git.io/typing-svg)
+</div>
+
  Estudante de tecnologia ( Desenvolvimento de Sistemas)
 
 ### 🚀 Sobre mim
