@@ -10,6 +10,7 @@
 -  Atualmente cursando o Técnico em Desenvolvimento de Sistemas no SENAI.
 - Gosto de estudar Ti
 -  Meu Foco Atualmente é:
+
   .Lógica de Programação
   .Desenvolvimento Web
   .Resolução de Problema
