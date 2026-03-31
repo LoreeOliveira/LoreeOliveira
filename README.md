@@ -1,12 +1,15 @@
 Olá! Eu sou a Lorena Sousa de Oliveira ✨
-Uma desenvolvedora em formação, apaixonada por tecnologia e por transformar ideias em código. 
+ Estudante de tecnologia ( Desenvolvimento de Sistemas)
 
 ### 🚀 Sobre mim
 
-- 🎓 Atualmente cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI**.
-- 💻 Focada em aprender e dominar as melhores práticas de desenvolvimento de software.
-- 💡 Gosto de criar interfaces intuitivas e resolver problemas lógicos.
-- 🌱 Aprendendo algo novo todos os dias para me tornar uma desenvolvedora de excelência.
+
+-  Atualmente cursando o Técnico em Desenvolvimento de Sistemas no SENAI.
+- Gosto de estudar Ti
+-  Meu Foco Atualmente é:
+  .Lógica de Programação
+  .Desenvolvimento Web
+  .Resolução de Problema
 <!--
 **LoreeOliveira/LoreeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
