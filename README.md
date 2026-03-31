@@ -4,6 +4,7 @@
  Sou a Lorena tenho 16 anos, estou no Segundo Ano do Ensino Médio .Atualmente estou estudanto T.I (Desenvolvimento de Sistemas) no Senai Jacob A. Lafer, estou desenvolvendo programação, sistemas e web site✨
  <br>
 
+---
 
 ### 🚀 Sobre mim
 
@@ -12,6 +13,8 @@
 -  💡 Gosto de estudar Ti
 -  💻 Focada em aprender e dominar as melhores práticas de desenvolvimento de software.
 -  🌱 Aprendendo algo novo todos os dias para me tornar uma desenvolvedora excelente!
+
+---
 
 ### 📫 Como me encontrar!
 
