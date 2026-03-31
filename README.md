@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC5D3&width=435&lines=Olá+Eu+sou+a;Lorena+Sousa+de+Oliveira+❤️;✨Seja+Muito+Bem+Vindo+ao+meu+GitHub✨;Estudante+de+T.I%F0%9F%93%9A%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC5D3&width=435&lines=Lorena+Sousa+de+Oliveira+❤️;Seja+Muito+Bem+Vindo+ao+meu+GitHub✨;Estudante+de+T.I%F0%9F%93%9A%F0%9F%9A%80)](https://git.io/typing-svg)
 </div>
  Sou a Lorena tenho 16 anos, estou no Segundo Ano do Ensino Médio .Atualmente estou estudanto T.I (Desenvolvimento de Sistemas) no Senai Jacob A. Lafer, estou desenvolvendo programação, sistemas e web site✨
  <br>
