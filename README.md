@@ -1,9 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC5D3&width=435&lines=Lorena+Oliveira;Seja+Muito+Bem+Vindo+!;Estudante+de+T.I%F0%9F%93%9A%F0%9F%9A%80)](https://git.io/typing-svg)
 </div>
- Sou a Lorena tenho 16 anos, estou no Segundo Ano do Ensino Médio .Atualmente estou estudanto T.I no Senai Jacob A. Lafer, estou desenvolvendo programação, sistemas e web site✨
+ Sou a Lorena tenho 16 anos, estou no Segundo Ano do Ensino Médio .Atualmente estou estudanto T.I( Desenvolvimento de Sistemas) no Senai Jacob A. Lafer, estou desenvolvendo programação, sistemas e web site✨
  <br>
- Estudante de tecnologia ( Desenvolvimento de Sistemas)
+
 
 ### 🚀 Sobre mim
 
@@ -13,7 +13,7 @@
 -  💻 Focada em aprender e dominar as melhores práticas de desenvolvimento de software.
 -  🌱 Aprendendo algo novo todos os dias para me tornar uma desenvolvedora excelente!
 
-### 📫 Como me encontrar
+### 📫 Como me encontrar!
 
 Se quiser bater um papo sobre tecnologia, projetos ou oportunidades:
 
